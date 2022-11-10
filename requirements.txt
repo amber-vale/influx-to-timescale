@@ -1,0 +1,5 @@
+click
+psycopg2-binary
+influxdb
+python-dotenv
+autopep8
